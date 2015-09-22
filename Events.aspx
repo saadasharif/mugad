@@ -7,8 +7,8 @@
     <script type="text/javascript" src="Scripts/fullcalendar.js"></script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
-    <div class="container" style="padding: 20px;">
-        <div id='calendar' style="width: 65%; padding: 30px;"></div>
+    <div class="container" style="padding: 20px;" align="center">
+        <div id='calendar'style="width: 50%;" ></div>
     </div>
     <script type="text/javascript">
         $(document).ready(function () {
