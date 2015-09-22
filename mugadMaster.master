@@ -4,12 +4,14 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>MUGAD - Microsoft User group Abu Dhabi</title>
+    <title>MUGAD - Microsoft User Group Abu Dhabi</title>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE-Edge" />
     <meta name="author" content="Saad Ahmed Sharif" />
+    <meta name="description" content="Microsoft User Group Abu Dhabi" />
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+    <link rel="shortcut icon" type="image/x-icon" href="Images/favicon.ico" />
     <link rel="stylesheet" href="Content/bootstrap.min.css" />
     <link rel="stylesheet" href="Content/bootstrap-theme.min.css" />
     <link rel="stylesheet" href="Styles/sticky-footer.css" />
