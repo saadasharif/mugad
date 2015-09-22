@@ -11,4 +11,16 @@ public partial class mugadMaster : System.Web.UI.MasterPage
     {
 
     }
+     protected void btnHome_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("Default.aspx");
+    }
+    protected void btnContact_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("Contact.aspx");
+    }
+    protected void btnEvents_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("Events.aspx");
+    }
 }
